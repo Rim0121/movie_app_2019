@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import App from "./App";
 
-import Apps from "./Apps";
-
-ReactDOM.render(<Apps />, document.getElementById("potato"));
+ReactDOM.render(<App />, document.getElementById("potato"));
